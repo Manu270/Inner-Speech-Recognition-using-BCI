@@ -1,3 +1,6 @@
+<img width="1465" alt="Screenshot 2025-05-07 at 11 09 47 AM" src="https://github.com/user-attachments/assets/4af3d161-bf43-458a-bcfe-0233fbe5e5ae" />
+<img width="1469" alt="Screenshot 2025-05-07 at 11 09 15 AM" src="https://github.com/user-attachments/assets/48f3a88a-10a9-46fa-b57e-6fc2b626f3f7" />
+<img width="1467" alt="Screenshot 2025-05-07 at 11 08 20 AM" src="https://github.com/user-attachments/assets/6abf0a81-d8d8-4ddd-8fb1-60b7cfb0c139" />
 # 🧠 Inner Speech Classification using EEGNet
 
 This project implements an end-to-end pipeline to classify **inner speech EEG signals** using the EEGNet deep learning model. It includes data preprocessing, training, evaluation, prediction, and various visualizations like PSD plots, topoplots, and correlation heatmaps.
@@ -122,6 +125,7 @@ You can run `visualize.py` to generate:
 <img width="1467" alt="Screenshot 2025-05-07 at 11 08 20 AM" src="https://github.com/user-attachments/assets/0290e888-af0b-4fb1-9b23-ca7f87a396a1" />
 <img width="1469" alt="Screenshot 2025-05-07 at 11 09 15 AM" src="https://github.com/user-attachments/assets/7df7899e-74c0-4523-a2a6-32fd0fc5c279" />
 <img width="1465" alt="Screenshot 2025-05-07 at 11 09 47 AM" src="https://github.com/user-attachments/assets/439f51b0-5472-447c-b241-ac019791afc4" />
+
 
 
 
